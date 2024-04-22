@@ -1,2 +1,2 @@
-local keys = {"thug"}
+local keys = {"thug", "shaker"}
 return keys
